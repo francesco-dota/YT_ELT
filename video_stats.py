@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv(dotenv_path="C:/Courses/YT_ELT/venv/.env")
 
 API_KEY = os.getenv("API_KEY")
-# print(API_KEY)
+#  print(API_KEY)
 #API_KEY = "AIzaSyBBZSSQexAz1xNXiFDOKokJjPy7VQ7WXqI"
 CHANNEL_HANDLE = "MrBeast"
 
